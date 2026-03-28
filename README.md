@@ -2,7 +2,7 @@
 
 ## 🎯 Cyber Security Practitioner & Lifelong Learner
 
-A passionate Cyber Security enthusiast with a strong focus on [ (Penetration Testing) |  (Threat Intelligence) | الدفاع السيبراني (Blue Teaming) | ]. My journey is driven by a deep desire to secure systems, find vulnerabilities before they are exploited, and master the art of ethical hacking.
+A passionate Cyber Security enthusiast with a strong focus on [ (Penetration Testing) |  (Threat Intelligence) | (Blue Teaming) | ]. My journey is driven by a deep desire to secure systems, find vulnerabilities before they are exploited, and master the art of ethical hacking.
 
 ---
 
