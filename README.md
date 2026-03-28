@@ -35,19 +35,11 @@ A passionate Cyber Security enthusiast with a strong focus on [ (Penetration Tes
   <img src="https://img.shields.io/badge/-Nmap-black?logo=security-resource-provider&logoColor=white&style=flat-square" alt="Nmap" />
   <img src="https://img.shields.io/badge/-Metasploit-blue?logo=rapid7&logoColor=white&style=flat-square" alt="Metasploit" />
   <img src="https://img.shields.io/badge/-Burp%20Suite-orange?logo=burp-suite&logoColor=white&style=flat-square" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" />
   <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square" alt="Bash" />
 </p>
 
 ---
 
-### 📚 Projects & Research
-
-Here are some of my significant projects in the Cyber Security domain:
-
-1.  **[اسم مشروع قوي, مثلاً: Network Scanner Tool]**: [وصف قصير جداً, مثلاً: built a custom TCP/UDP port scanner using Python.]
-2.  **[اسم مشروع آخر, مثلاً: Capture The Flag (CTF) Write-ups]**: [A collection of detailed walk-throughs for CTF challenges I've solved.]
-3.  **[اسم مشروع ثالث, مثلاً: Phishing Simulation Campaign]**: [Developed and executed a simulated phishing campaign for awareness training.]
 
 ---
 
