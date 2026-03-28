@@ -46,9 +46,6 @@ A passionate Cyber Security enthusiast with a strong focus on [ (Penetration Tes
 ### 🔗 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/[LINKEDIN_USERNAME]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://[YOUR_PORTFOLIO_URL]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/website.svg" alt="Portfolio" height="30" width="40" /></a>
-<a href="[LINK_TO_A_CYBER_CERTIFICATE, if any]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/shield.svg" alt="Certificates" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/[MOHAMED IBRAHIM]" target="blank"><img align="center" 
 
 "Securing the world, one line of code at a time."
